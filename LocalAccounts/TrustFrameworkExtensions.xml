@@ -6,7 +6,7 @@
   PolicySchemaVersion="0.3.0.0" 
   TenantId="b2cabyss.onmicrosoft.com" 
   PolicyId="B2C_1A_TrustFrameworkExtensions" 
-  PublicPolicyUri="http://b2cabyss.onmicrosoft.com/B2C_1A_TrustFrameworkExtensions">
+  PublicPolicyUri="http://b2cabyssgitbu.onmicrosoft.com/B2C_1A_TrustFrameworkExtensions">
   
   <BasePolicy>
     <TenantId>yourtenant.onmicrosoft.com</TenantId>
