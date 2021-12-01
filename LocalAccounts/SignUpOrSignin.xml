@@ -6,7 +6,10 @@
   PolicySchemaVersion="0.3.0.0"
   TenantId="b2cabyss.onmicrosoft.com"
   PolicyId="B2C_1A_signup_signin"
-  PublicPolicyUri="http://b2cabyss.onmicrosoft.com/B2C_1A_signup_signin">
+  PublicPolicyUri="http://b2cabyss.onmicrosoft.com/B2C_1A_signup_signin"
+  DeploymentMode="Development"
+  UserJourneyRecorderEndpoint="urn:journeyrecorder:applicationinsights"
+>
 
   <BasePolicy>
     <TenantId>b2cabyss.onmicrosoft.com</TenantId>
